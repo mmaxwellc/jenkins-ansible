@@ -1,6 +1,6 @@
 [servers]
 172.31.33.36
-ansible_user=ec2-user
+ec2-user
 
 172.31.34.74
-ansible_user=ec2-user
+ec2-user
