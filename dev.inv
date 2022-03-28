@@ -1,6 +1,6 @@
 [servers]
 172.31.33.36
-ec2-user
+max
 
 172.31.34.74
-ec2-user
+max
